@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 
 <!--
 **gowthambaragada-a11y/gowthambaragada-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I’m a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning.<br>Fun fact: Watching Anime,Love coding,Solving Leetcode problems<br>
-
+I’m Gowtham,a Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning.<br><br>
+I design and build whatever I can imagine<br><br>
+If a idea pop up into my head,chances are I'll build it and ship it<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gowtham-sai-ram-baragada-87a27635a/) 
